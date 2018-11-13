@@ -14,4 +14,4 @@ Our analysis consists of the following steps:
 
  - Finally, we perform data modeling, and created many classification algorithms. We compare the performance based on the accuracy.
 
-The analysis is in a jupyter notebook, which can be downloded and run easily from local machine. 
+The analysis is done using Python 3, and is provided in a jupyter notebook. It can be downloded and run easily from local machine. 
